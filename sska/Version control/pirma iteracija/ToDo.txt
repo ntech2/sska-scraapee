@@ -1,0 +1,12 @@
+visas lapas parsot
+iztirit no maina/perku
+atdaliit iire/pirksana - ielikt menu izvelei?
+
+exportot kaa html? ieliekot write htmlu?css atseviski un nohostot kkur sakartojot pec labaka varianta..
+izvilkt no katra url visas bildites
+
+ielikt googelmaps adreses un apskatiit kartee
+
+gui uztaisit ar opcijaam? un izplatit in the wild -> ??? -> profit
+
+historic data. Lai graphu veidaa attelojas median price avg price utt. un katru dienu syncojas daily tasks. :D

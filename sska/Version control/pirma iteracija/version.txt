@@ -1,0 +1,4 @@
+v1
+pruno vienu lapu, kas noradiita sakuma variablii
+
+saglabaa csv vienaa kolonnaa

@@ -1,0 +1,28 @@
+v2
+  Galvenais: 
+    Atseviski skripti dzivoklu sale un rent, kas automatiski pruno visas lapas un saglaba csv.
+
+  Faili: 
+    sssell.py, ssrent.py
+    Izvades faili sssell.csv, ssrent.csv
+  Apraksts:
+    uzraksta headeri, atver csv failu
+    Gaida inputu, lai user norada, kura ir pedeja lapa (shis jaizdoma ka automatiski atrast)
+    Pec ievades iziet cauri visaam lapaam loopaa no 1 lidz noraditajai.
+    katras lapas beigaas atgriez ierakstu par saglabasanu
+    beigaas nodot info, ka viss pabeigts.
+
+  TODO: 
+    auto atrast pedejo lapu. 
+    Auto izveidot CSV ar current datumu failaa, lai nebutu overwrite jataisa.
+    Ielikt uz hostinga un ar cron jobs automatizeet, lai saglaba automatiski un var nokacat jaunako versiju no weba.
+    Nakotnee komercializet failu history un advanced meklesanas iespejas.
+    atdalit adreses lauku korekti un savienot ar gmaps..?
+
+
+v1
+pruno vienu lapu, kas noradiita sakuma variablii
+
+saglabaa csv vienaa kolonnaa
+
+

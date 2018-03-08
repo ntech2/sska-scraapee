@@ -1,0 +1,21 @@
+visas lapas parsot
+iztirit no maina/perku
+atdaliit iire/pirksana - ielikt menu izvelei?
+
+exportot kaa html? ieliekot write htmlu?css atseviski un nohostot kkur sakartojot pec labaka varianta..
+izvilkt no katra url visas bildites
+
+ielikt googelmaps adreses un apskatiit kartee
+
+gui uztaisit ar opcijaam? un izplatit in the wild -> ??? -> profit
+
+historic data. Lai graphu veidaa attelojas median price avg price utt. un katru dienu syncojas daily tasks. :D
+
+
+ideja - weblapa ar nekustamo ipasumu statistiku riigaa.
+  pa rajoniem parada cenu diapozonu un videjo cenu. Historic cenu izmainas.
+  parada letakos uz pirksanu, izdevigakos - skatoties pec cenas uz kvm un vesturiskajiem datiem.
+  advanced meklesna - iekjeksee vairakus rajonus un filtrus un parada izdevigakos variantus.
+  salidzina iires cenas par lidzigiem ar pirsanas cenaam konkreta rajonaa un aprekina labako atdevi!!!! OMG
+  
+  - so pasu ideju ari uz masinaam ar historic data analizi par auto modeliem.
